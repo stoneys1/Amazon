@@ -1,5 +1,5 @@
 
-Página da Amazon Feita com: ➝CSS ➝ HTML
+Página da Amazon Feita com: ➝CSS ➝ HTML ➝JavaScript
 
 
 Página inicial:
