@@ -232,3 +232,87 @@ footer{
     background: #131921;
     padding: 20px 60px;
 }
+
+/* responsiividade*/
+@media only screen and (max-width: 600px) {
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px;
+    }
+
+    .nav-country, .nav-language, .nav-text, .nav-cart {
+        margin: 10px 0;
+    }
+
+    .nav-country, .nav-language {
+        font-size: 12px;
+    }
+
+    .nav-text h1 {
+        font-size: 12px;
+    }
+
+    .nav-bottom {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        padding: 8px 10px;
+        font-size: 12px;
+    }
+
+    .box-row {
+        margin: 10px 0;
+    }
+
+    .box-col {
+        max-width: 100%;
+        min-width: auto;
+        margin-bottom: 10px;
+    }
+
+    .header-box {
+        margin-top: 0;
+    }
+
+    .products-slider, .products-slider-with-price {
+        margin: 0 10px;
+        padding: 10px;
+    }
+
+    .products-slider .products, .products-slider-with-price .products {
+        gap: 5px;
+        overflow-x: auto;
+    }
+
+    .products-slider .products img, .products-slider-with-price .products img {
+        max-width: 120px;
+        min-height: 150px;
+    }
+
+    .product-card {
+        min-width: auto;
+        margin-bottom: 10px;
+    }
+
+    .product-card img {
+        width: 90px;
+        margin: 0 auto;
+    }
+
+    .product-offer p {
+        padding: 10px;
+        font-size: 11px;
+    }
+
+    .product-price {
+        font-size: 11px;
+    }
+
+    .product-card h4 {
+        font-size: 13px;
+    }
+
+    footer {
+        padding: 10px 20px;
+    }
