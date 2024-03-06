@@ -2,6 +2,9 @@
 Página da Amazon Feita com: ➝CSS ➝ HTML ➝JavaScript
 
 
+Link do projeto: https://amazon-896i2k2yf-stoneys1.vercel.app
+
+
 Página inicial:
 📷
 ![image](https://github.com/stoneys1/Amazon/assets/98463307/535a3303-2f7a-42b9-8ebc-e1c00cc85b61)
